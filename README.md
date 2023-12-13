@@ -1,7 +1,7 @@
 <div align="left">
     
 ### Introduction :raised_hands:
-Hi, I am trying to become a nice developer😎
+Hi, I am trying to become a nice data scientist😎
 
 - 🪄  -  <sub>(2023.07 ~ )</sub>
 -  <sub>(2023.03 ~ 06)</sub>
