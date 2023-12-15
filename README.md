@@ -17,7 +17,7 @@ Hi, I am trying to become a nice data scientist😎
 
 <div align="left">
 
-![Seulji's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuljiMoon&show_icons=true&theme=radical)  &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuljiMoon&layout=compact&theme=dark&hide=html,css"/></a> 
+![Seulji's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuljiMoon&show_icons=true&theme=radical)  &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuljiMoon&layout=compact&theme=dark&hide=html,css,javascript"/></a> 
 
 ---
 
